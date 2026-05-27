@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "rwicc"]
+	path = rwicc
+	url = https://github.com/d-morrison/rwicc
 [submodule "snapr"]
 	path = snapr
 	url = https://github.com/d-morrison/snapr
